@@ -13,4 +13,5 @@ namespace MyLogger
         Warning,
         Error
     }
+
 }
